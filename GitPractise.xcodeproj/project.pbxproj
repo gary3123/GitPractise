@@ -18,6 +18,7 @@
 		3F6BD8AA2A59728E00DF6840 /* GitPractiseUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6BD8A92A59728E00DF6840 /* GitPractiseUITestsLaunchTests.swift */; };
 		3F6BD8B72A5975C100DF6840 /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6BD8B62A5975C100DF6840 /* NewFile.swift */; };
 		3F6BD8B92A5975F400DF6840 /* PractiseGit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6BD8B82A5975F400DF6840 /* PractiseGit.swift */; };
+		3F6BD8BB2A5978C500DF6840 /* Hello.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6BD8BA2A5978C500DF6840 /* Hello.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		3F6BD8A92A59728E00DF6840 /* GitPractiseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitPractiseUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		3F6BD8B62A5975C100DF6840 /* NewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
 		3F6BD8B82A5975F400DF6840 /* PractiseGit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PractiseGit.swift; sourceTree = "<group>"; };
+		3F6BD8BA2A5978C500DF6840 /* Hello.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				3F6BD8942A59728E00DF6840 /* Info.plist */,
 				3F6BD8B62A5975C100DF6840 /* NewFile.swift */,
 				3F6BD8B82A5975F400DF6840 /* PractiseGit.swift */,
+				3F6BD8BA2A5978C500DF6840 /* Hello.swift */,
 			);
 			path = GitPractise;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				3F6BD8872A59728D00DF6840 /* AppDelegate.swift in Sources */,
 				3F6BD8B72A5975C100DF6840 /* NewFile.swift in Sources */,
 				3F6BD8B92A5975F400DF6840 /* PractiseGit.swift in Sources */,
+				3F6BD8BB2A5978C500DF6840 /* Hello.swift in Sources */,
 				3F6BD8892A59728D00DF6840 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
